@@ -3,5 +3,5 @@ var playlist = {
 };
 function updatePlaylist (obj,str,song) {
   obj.str = song;
-  return playlist;
+  return obj;
 }
