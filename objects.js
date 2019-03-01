@@ -1,6 +1,6 @@
 var playlist = {
-  artistName: ''
+  str: ''
 };
 function updatePlaylist (obj,str,song) {
-  obj[artistName][]
+  obj[str][]
 }
