@@ -1,4 +1,4 @@
-var playlist = {};
+var playlist = new Object({ breakfast: 'oatmeal' })
 function updatePlaylist (obj,artist,song) {
   obj[artist][song];
   return obj;
