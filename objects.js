@@ -1,6 +1,12 @@
 var playlist = {}
+// ``` javascript
+// function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
+//   obj[key] = value
 
-function updatePlaylist (obj,key,song) {
-  obj[key] = song;
+//   return obj
+// }```
+
+function updatePlaylist (obj,key,value) {
+  obj[key] = value;
   return obj;
 }
