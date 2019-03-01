@@ -5,3 +5,4 @@ function updatePlaylist (obj,str,song) {
   obj.str = song;
   return obj;
 }
+function 
