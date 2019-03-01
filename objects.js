@@ -1,4 +1,6 @@
-var playlist = {}
+var playlist = {
+  vanHalen: 'Panama'
+}
 // ``` javascript
 // function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
 //   obj[key] = value
