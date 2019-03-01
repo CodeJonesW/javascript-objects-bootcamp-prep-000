@@ -1,9 +1,9 @@
 var playlist = {}
 
-function updatePlaylist (obj,artist,song) {
+function updatePlaylist (obj,key,song) {
   
   return obj;
 }
-function removeFromPlaylist (obj,artist) {
+function removeFromPlaylist (obj,key) {
   delete obj.str;
 }
